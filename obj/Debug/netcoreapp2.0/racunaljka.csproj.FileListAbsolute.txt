@@ -1,0 +1,11 @@
+f:\Source\Repos\OriginalLibs\racunaljka\bin\Debug\netcoreapp2.0\racunaljka.deps.json
+f:\Source\Repos\OriginalLibs\racunaljka\bin\Debug\netcoreapp2.0\racunaljka.runtimeconfig.json
+f:\Source\Repos\OriginalLibs\racunaljka\bin\Debug\netcoreapp2.0\racunaljka.runtimeconfig.dev.json
+f:\Source\Repos\OriginalLibs\racunaljka\bin\Debug\netcoreapp2.0\racunaljka.dll
+f:\Source\Repos\OriginalLibs\racunaljka\bin\Debug\netcoreapp2.0\racunaljka.pdb
+f:\Source\Repos\OriginalLibs\racunaljka\obj\Debug\netcoreapp2.0\racunaljka.csproj.CoreCompileInputs.cache
+f:\Source\Repos\OriginalLibs\racunaljka\obj\Debug\netcoreapp2.0\racunaljka.AssemblyInfoInputs.cache
+f:\Source\Repos\OriginalLibs\racunaljka\obj\Debug\netcoreapp2.0\racunaljka.AssemblyInfo.cs
+f:\Source\Repos\OriginalLibs\racunaljka\obj\Debug\netcoreapp2.0\racunaljka.dll
+f:\Source\Repos\OriginalLibs\racunaljka\obj\Debug\netcoreapp2.0\racunaljka.pdb
+F:\Source\Repos\OriginalLibs\racunaljka\obj\Debug\netcoreapp2.0\racunaljka.csprojResolveAssemblyReference.cache
